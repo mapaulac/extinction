@@ -10,3 +10,5 @@ This project has been showcased in Imagine Science Film Festival in Abu Dhabi, a
 # Requirements:
 - Processing
 - Processing Minim library 
+
+Full documentation: https://maricalderon.net/extinction-interactive-short-story
