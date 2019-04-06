@@ -5,7 +5,7 @@ Interactive Installation done in Processing
 
 On the technical side, this piece tracks the user's position directly to the computer via a mouse or track pad or through a touchscreen, depending on the setup. 
 
-This project has been showcased in Imagine Science Film Festival in Abu Dhabi, and will be exhibited in the "Interaction and Immersion" showcase of the Sehsüchte International Student Film Festival in Postdam, Germany. 
+This project has been showcased in Imagine Science Film Festival in Abu Dhabi, and will be exhibited in the "Interaction and Immersion" showcase of the Sehsüchte International Student Film Festival in Potsdam, Germany. 
 
 # Requirements:
 - Processing
